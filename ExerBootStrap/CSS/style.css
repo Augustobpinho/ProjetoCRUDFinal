@@ -1,0 +1,10 @@
+.button {
+    color:blueviolet;
+}
+
+.nav-link, .navbar-brand{
+    color: #fff!important;   
+}
+.card-header, .bloco-oferecemos, footer{
+    color: #fff;   
+}
